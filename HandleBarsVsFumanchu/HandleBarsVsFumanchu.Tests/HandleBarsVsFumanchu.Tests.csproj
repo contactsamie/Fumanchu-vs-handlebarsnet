@@ -95,7 +95,7 @@
     <Compile Include="DataFactory.cs" />
     <Compile Include="TemplateFactory.cs" />
     <Compile Include="TestHelper.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="when_a_template_is_to_be_compilled.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
